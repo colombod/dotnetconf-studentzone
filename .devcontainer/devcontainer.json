@@ -56,29 +56,6 @@
     "vscode": {
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        // Recommended extensions - GitHub
-        "cschleiden.vscode-github-actions",
-        "GitHub.vscode-pull-request-github",
-        // Recommended extensions - Azure
-        "Azurite.azurite",
-        "ms-azuretools.vscode-bicep",
-        // Recommended extensions - Collaboration
-        "eamodio.gitlens",
-        "EditorConfig.EditorConfig",
-        // "MS-vsliveshare.vsliveshare-pack",
-        "streetsidesoftware.code-spell-checker",
-        // Recommended extensions - .NET
-        "Fudge.auto-using",
-        "jongrant.csharpsortusings",
-        "kreativ-software.csharpextensions",
-        // Recommended extensions - Power Platform
-        // "microsoft-IsvExpTools.powerplatform-vscode",
-        // Recommended extensions - Markdown
-        "bierner.github-markdown-preview",
-        "DavidAnson.vscode-markdownlint",
-        "docsmsft.docs-linting",
-        "johnpapa.read-time",
-        "yzhang.markdown-all-in-one",
         // Required extensions
         "GitHub.copilot",
         "ms-dotnettools.csharp",
@@ -87,10 +64,6 @@
         "VisualStudioExptTeam.vscodeintellicode",
         // .NET Interactive
         "ms-dotnettools.dotnet-interactive-vscode",
-        "ms-python.python",
-        "ms-toolsai.jupyter",
-        "ms-toolsai.jupyter-keymap",
-        "ms-toolsai.jupyter-renderers",
         "RandomFractalsInc.vscode-data-table"
       ],
       "settings": {
